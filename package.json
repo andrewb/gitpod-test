@@ -1,0 +1,22 @@
+{
+  "name": "gitpod-test",
+  "version": "1.0.0",
+  "description": "Gitpod test repo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewb/gitpod-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewb/gitpod-test/issues"
+  },
+  "homepage": "https://github.com/andrewb/gitpod-test#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
